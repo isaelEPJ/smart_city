@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233590041101",
+    "project_id": "smart-city-e70cc",
+    "storage_bucket": "smart-city-e70cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233590041101:android:0264f20958484cae214344",
+        "android_client_info": {
+          "package_name": "com.example.smart_city"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233590041101-0bvo9c27u0povcljicprt8t7lhbj4h4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_city",
+            "certificate_hash": "7f4280b3fcae52ad534141fa4875dbbba1d42cd9"
+          }
+        },
+        {
+          "client_id": "233590041101-geuqjgsnbcv3e55llb58r8dbut810vpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotNJw8Rid7ScZ-iKNNX9eC99YP7cIn4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233590041101-geuqjgsnbcv3e55llb58r8dbut810vpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
